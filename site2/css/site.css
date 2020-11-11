@@ -1,0 +1,19 @@
+.footer {
+    color: #fbc9fd;
+    line-height: 35px;
+    padding-top: 22.5px;
+    padding-bottom: 22.5px;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    /*display: inline-block;*/
+}
+
+.footer-link {
+    color: #e6b4e3;
+}
+
+.footer-link:hover {
+    color: #da3cd2;
+    text-decoration: none;
+}
